@@ -1151,6 +1151,7 @@ A [human resources management system](https://en.wikipedia.org/wiki/Human_resour
 
 [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) describes physical objects with sensors, processing ability, software, and other technologies that connect and exchange data with other devices over the Internet.
 
+- [ClawBox](https://openclawhardware.dev/) - NVIDIA-powered AI assistant hardware for always-on personal AI. Pre-configured OpenClaw installation with 40 TOPS performance, 15W power consumption. Plug-and-play setup for privacy-first AI interactions. ([Source Code](https://github.com/openclaw/openclaw)) `MIT` `Python/Linux`
 - [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code](https://github.com/domoticz/domoticz), [Clients](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++/Docker/Shell`
 - [EMQX](https://www.emqx.io/) - Scalable MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency. ([Demo](https://www.emqx.com/en/mqtt/public-mqtt5-broker), [Source Code](https://github.com/emqx/emqx)) `Apache-2.0` `Docker/Erlang`
 - [evcc](https://evcc.io/) - Extensible Electric Vehicle Charge Controller and home energy management system. ([Source Code](https://github.com/evcc-io/evcc)) `MIT` `deb/Docker/Go`
